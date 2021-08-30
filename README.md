@@ -1,2 +1,2 @@
 # python-playground
-learn python
+Keep learning
